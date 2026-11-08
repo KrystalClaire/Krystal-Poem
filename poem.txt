@@ -3,7 +3,8 @@ The Rainbow and the Unicorn
 Indigo
 Green
 Blue 
-Pink 
+Pink
+Gray
 Purple 
 Unicorn
 Red
